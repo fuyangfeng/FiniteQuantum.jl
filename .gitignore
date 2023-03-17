@@ -1,3 +1,8 @@
 *.jl.*.cov
 *.jl.cov
 *.jl.mem
+
+.vscode
+.Manifest.toml
+*.jld2
+*.txt
